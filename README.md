@@ -1,6 +1,9 @@
 # Olá, eu sou o Edcley Vítor! 👋
 
 ### Desenvolvedor Fullstack | Bolsista UFOPA | Aluno EETEPA
+
+Sou de **Santarém, Pará**, apaixonado por tecnologia e software livre. Atualmente, foco no desenvolvimento de soluções Fullstack, transitando entre o baixo nível (C/C++) e aplicações modernas. Sou usuário e entusiasta do **Pop!_OS Linux**.
+
 ---
 
 ### 🚀 Sobre mim:
@@ -8,25 +11,24 @@
 - 🛠️ Experiência com **Desenvolvimento Fullstack** e **Sistemas Embarcados**.
 - 🐧 Estação de trabalho principal: **Pop!_OS Linux**.
 - 🎮 Desenvolvedor de jogos/ferramentas com **GDScript** e **Java**.
+- 🐚 Automação de tarefas com **Bash Script**.
+
 ---
 
 ### 🛠️ Tecnologias e Ferramentas:
 
-**Linguagens**
+**Linguagens e Sistemas:**
 <p align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" />
   <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
   <img src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</p>
-
-**Sistemas**
-<p align="left">
-    <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" />
 </p>
 
 **Web & Marcação:**
@@ -41,6 +43,14 @@
 - 🌿 **[PlantAuto-PEEX](https://github.com/EdcleyVitor/PlantAuto-PEEX):** Sistema de irrigação inteligente com ESP32.
 - 🍩 **[DonutJava](https://github.com/EdcleyVitor/DonutJava):** Renderização de um donut 3D no terminal.
 - 🎯 **[Literatura: Um Jogo de Sorte](https://github.com/EdcleyVitor/Literatura.um.Jogo.de.Sorte):** Projeto para a feira literária da EETEPA.
+
+---
+
+### 📊 Estatísticas do GitHub:
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdcleyVitor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdcleyVitor&layout=compact&theme=dracula"/>
+</p>
 
 ---
 
