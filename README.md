@@ -1,9 +1,6 @@
 # Olá, eu sou o Edcley Vítor! 👋
 
 ### Desenvolvedor Fullstack | Bolsista UFOPA | Aluno EETEPA
-
-Sou de **Santarém, Pará**, apaixonado por tecnologia e software livre. Atualmente, foco no desenvolvimento de soluções Fullstack, transitando entre o baixo nível (C/C++) e aplicações modernas. Sou usuário e entusiasta do **Pop!_OS Linux**.
-
 ---
 
 ### 🚀 Sobre mim:
@@ -11,8 +8,6 @@ Sou de **Santarém, Pará**, apaixonado por tecnologia e software livre. Atualme
 - 🛠️ Experiência com **Desenvolvimento Fullstack** e **Sistemas Embarcados**.
 - 🐧 Estação de trabalho principal: **Pop!_OS Linux**.
 - 🎮 Desenvolvedor de jogos/ferramentas com **GDScript** e **Java**.
-- 🐚 Automação de tarefas com **Bash Script**.
-
 ---
 
 ### 🛠️ Tecnologias e Ferramentas:
