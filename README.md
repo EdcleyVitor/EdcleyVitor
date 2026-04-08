@@ -8,7 +8,7 @@
 - 🎓 Aluno da **EETEPA** e Bolsista na **UFOPA**.
 - 🛠️ Experiência com **Desenvolvimento Fullstack** e **Sistemas Embarcados**.
 - 🐧 Estação de trabalho principal: **Pop!_OS Linux**.
-- 🎮 Desenvolvedor de jogos/ferramentas com **GDScript** e **Java**.
+- 🎮 Desenvolvedor **Java**.
 ---
 
 ### 🛠️ Tecnologias e Ferramentas:
