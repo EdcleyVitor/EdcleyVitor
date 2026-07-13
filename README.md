@@ -42,7 +42,7 @@
 ### 🔧 Projetos em Destaque:
 - 🌿 **[PlantAuto-PEEX](https://github.com/EdcleyVitor/PlantAuto-PEEX):** Sistema de irrigação inteligente com ESP32.
 - 🍩 **[DonutJava](https://github.com/EdcleyVitor/DonutJava):** Renderização de um donut 3D no terminal.
-- 🎯 **[Literatura: Um Jogo de Sorte](https://github.com/EdcleyVitor/Literatura.um.Jogo.de.Sorte):** Projeto para a feira literária da EETEPA.
+- 🎯 **[Tradutor-P-Braille](EdcleyVitor/ArduinoBrailleDisplay):** Projeto FECITBA-PA
 
 ---
 
