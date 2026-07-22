@@ -100,8 +100,8 @@ contato: (93) 99105-9567
       </a>
     </td>
     <td width="33%" align="center">
-      <b>🎯 Tradutor-P-Braille</b><br/>
-      <sub>Display e tradutor em Braille para a FECITBA-PA</sub><br/><br/>
+      <b>🎯 BrailleBridge</b><br/>
+      <sub>Display e tradutor Braille multi-dispositivo via BLE</sub><br/><br/>
       <a href="https://github.com/EdcleyVitor/ArduinoBrailleDisplay">
         <img src="https://img.shields.io/badge/Ver_Reposit%C3%B3rio-00F5FF?style=for-the-badge&logo=github&logoColor=black" />
       </a>
@@ -114,8 +114,8 @@ contato: (93) 99105-9567
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EdcleyVitor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdcleyVitor&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-sigma-ten.vercel.app/api?username=EdcleyVitor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-sigma-ten.vercel.app/api/top-langs/?username=EdcleyVitor&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 <div align="center">
