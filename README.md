@@ -114,12 +114,12 @@ contato: (93) 99105-9567
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-sigma-ten.vercel.app/api?username=EdcleyVitor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-sigma-ten.vercel.app/api/top-langs/?username=EdcleyVitor&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-kohl-sigma.vercel.app/api?username=EdcleyVitor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-kohl-sigma.vercel.app/api/top-langs/?username=EdcleyVitor&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=EdcleyVitor&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=EdcleyVitor&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
